@@ -1,2 +1,2 @@
-# fund8_developerecosystem_ialabs
-Fund 8: Developer Ecosystem Iterative Alchemy Labs
+# fund8_developerecosystem_savesoil
+Fund 8: Developer Ecosystem - Save Soil Challenge Coin Campaign
